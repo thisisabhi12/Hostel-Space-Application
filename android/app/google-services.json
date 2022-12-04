@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994967480281",
+    "project_id": "complain-app-flutter",
+    "storage_bucket": "complain-app-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994967480281:android:6d3560f7d1493af3d05bc8",
+        "android_client_info": {
+          "package_name": "com.example.hostelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994967480281-rhm8pecchtsr6tvnj8lu6aduvdipbq80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8hgjfM0pGUPmz_Sxhb0Ph_fmfi3cIHI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994967480281-rhm8pecchtsr6tvnj8lu6aduvdipbq80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
